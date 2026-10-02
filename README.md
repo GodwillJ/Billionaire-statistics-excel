@@ -2,7 +2,7 @@
 
 Interactive Excel dashboard analysing 475 billionaires worth a combined $7.0 trillion. Guided project by Kenji explains.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Data cleaning
 - Removed 6 duplicate records (481 → 475)
@@ -10,13 +10,13 @@ Interactive Excel dashboard analysing 475 billionaires worth a combined $7.0 tri
 - Standardised gender labels (M/F → Male/Female)
 - Created Birthdate and Age columns from birth year, month and day
 
-![Before](data-before.png)
-![After](data-after.png)
+![Before](data-before.png.png)
+![After](data-after.png.png)
 
 ## Analysis
 6 PivotTables with PivotCharts and 4 slicers (gender, self-made, country, industry).
 
-![PivotTables](pivots.png)
+![PivotTables](pivots.png.png)
 
 ## Key insights
 - The US holds 45% of all billionaire wealth
